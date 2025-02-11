@@ -32,6 +32,8 @@ export default function Page() {
                 <div>
                   <p className="font-semibold">Largeur:</p>
                   <p>29.71m</p>
+                  <p className="font-semibold">Langeur:</p>
+                  <p>24.65m</p>
                 </div>
               </div>
             </div>
