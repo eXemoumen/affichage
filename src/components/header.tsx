@@ -58,7 +58,7 @@ export function Header({ currentPage }: HeaderProps) {
             </Link>
           </nav>
         </div>
-        <p className="text-xs sm:text-sm mt-2">
+        <p className="text-xs sm:text-sm mt-2 text-center">
           Thematique 3 de la semaine transversal
         </p>
       </div>
